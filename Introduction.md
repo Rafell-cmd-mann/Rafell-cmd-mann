@@ -1,5 +1,5 @@
 <img src="big_mini_mini_rafael.png" align=center>
-<h1>          ^          </h1>
+<h1>             ^          </h1>
 <legend>(Mini Mini Rafael above me.)</legend>
 <h1>HALLO!</h1>
 <h2>Hallo, I'm Rafell, I like Programming. (DUH.) But I'm mostly messing with random Programming tools and Languages to create stuff.</h2>
