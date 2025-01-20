@@ -1,4 +1,6 @@
-<style>text-align: center;</style>
+<style>
+  text-align: center;
+</style>
 <img src="big_mini_mini_rafael.png">
 <h1>HALLO!</h1>
 <h2>Hallo, I'm Rafell, I like Programming. (DUH.) But I'm mostly messing with random Programming tools and Languages to create stuff.</h2>
